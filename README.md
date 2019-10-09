@@ -1,5 +1,5 @@
 # cpp_Balanced_Symbols
-A simple C++ program to check balanced symbols of an input file.
+A C++ program to check balanced symbols of an input file.
 
 This program utilizes the std::Stack ADT in order to check for balanced symbols supplied by an input file.
 Any mismatched or unmatched symbols are printed to an output file signifying the error and the line number
